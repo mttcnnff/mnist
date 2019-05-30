@@ -1,1 +1,8 @@
 mnist-venv
+data
+bin
+include
+share
+lib
+pip-selfcheck.json
+.*
